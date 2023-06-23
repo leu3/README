@@ -2,7 +2,7 @@
 
 👋 Hello, world!
 
-I'm [Your Name], a passionate software developer and technology enthusiast. Welcome to my GitHub profile!
+I'm Banu, a passionate software developer and technology enthusiast. Welcome to my GitHub profile!
 
 🚀 About Me
 I thrive on turning ideas into functional and elegant software solutions. With [X] years of experience in the industry, I have developed a strong foundation in solidity, C++, Rust. I'm constantly exploring new technologies and frameworks to expand my skill set and stay at the forefront of innovation.
